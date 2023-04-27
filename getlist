@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "name": "QUẦN JEANS TRÁNG SÁP (WAXED) MÀU ĐEN",
+    "price": 10000000,
+    "description": "Quần Jean nam đẹp",
+    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftarmor.vn%2Fsan-pham%2Fquan-jeans-trang-sap-waxed-mau-den-tmb210103%2F&psig=AOvVaw1V0f9ZXOEJ199YM63eT8UV&ust=1682692922837000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDUpuGlyv4CFQAAAAAdAAAAABAE"
+  },
+  {
+    "id": "2",
+    "name": "Quần Jean Nam Trơn Form Carrot",
+    "price": 3000000,
+    "description": "Quần Jean nam đẹp",
+    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftiki.vn%2Fquan-jean-nam-den-tron-cao-cap-thuong-hieu-chandi-phong-cach-ton-dang-nam-tinh-chat-jean-co-dan-mau-j20-p76537581.html&psig=AOvVaw3qS6CkBmsSmbP6Dle6GtBL&ust=1682692759162000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCJifoJOlyv4CFQAAAAAdAAAAABAE"
+  },
+  {
+    "id": "3",
+    "name": "Quần jean nam trơn ống đứng cao cấp",
+    "price": 2000000,
+    "description": "Quần Jean nam đẹp",
+    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fmuasam24.com%2FQuan-jean-nam-tron-ong-dung-cao-cap-10491&psig=AOvVaw0ONoRfRMcWoE4bS-P-_-F5&ust=1682693133134000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDizcWmyv4CFQAAAAAdAAAAABAE"
+  },
+  {
+    "id": "4",
+    "name": "Quần jean nam trung niên tối giản nhưng không tối cổ",
+    "price": 6000000,
+    "description": "Quần Jean nam đẹp",
+    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fjeannamtn.com%2Fkien-thuc%2Fquan-jean-nam-trung-nien-toi-gian-nhung-khong-toi-co.html&psig=AOvVaw0ONoRfRMcWoE4bS-P-_-F5&ust=1682693133134000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDizcWmyv4CFQAAAAAdAAAAABAi"
+  },
+  {
+    "id": "5",
+    "name": "Quần Jean Nam Wash QJD0024",
+    "price": 8000000,
+    "description": "Quần Jean nam đẹp",
+    "image_url": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fkenta.vn%2Fproducts%2Fquan-jean-nam-wash-qjd0024-den&psig=AOvVaw0ONoRfRMcWoE4bS-P-_-F5&ust=1682693133134000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDizcWmyv4CFQAAAAAdAAAAABA6"
+  }
+]
